@@ -1,1 +1,1 @@
-# My bevy app template.
+# Simple 2 player game.

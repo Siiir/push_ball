@@ -1,5 +1,5 @@
 [package]
-name = "app_template" #todo
+name = "push_ball"
 version = "0.1.0"
 publish = false
 authors = ["Tomasz Nehring <tomasz_nehrind@outlook.com>"]
